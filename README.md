@@ -24,7 +24,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel Burdeno
 
-
+![Taco Tuesday gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZpZ2xqeTRuNTBnZ2kwc3hueDM5d3RjaHFnNGQwbWF5bDVnZDhoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABzWgpsQUWerU3zAhD/giphy.gif)
 
 ### Arkin Satija
 
