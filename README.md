@@ -24,3 +24,10 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Daniel Burdeno
 
+
+
+### Arkin Satija
+
+
+
+### Richter Nietzsche
