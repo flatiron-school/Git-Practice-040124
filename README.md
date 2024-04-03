@@ -31,3 +31,5 @@ I will either accept your pull request, or send you feedback on what you need to
 
 
 ### Richter Nietzsche
+
+![cat gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ozN25nNTAzeHF5NjF6aXhrN25mYm1mZ2RwOTRsdW1oeHJyOHVldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BBNYBoYa5VwtO/giphy.gif)
