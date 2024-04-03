@@ -28,6 +28,7 @@ I will either accept your pull request, or send you feedback on what you need to
 
 ### Arkin Satija
 
+![arkin gif](https://blog.hubspot.com/hs-fs/hubfs/Smiling%20Leo%20Perfect%20GIF.gif?width=595&height=400&name=Smiling%20Leo%20Perfect%20GIF.gif)
 
 
 ### Richter Nietzsche
